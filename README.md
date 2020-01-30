@@ -69,5 +69,5 @@ Exemplo:
             ).append_context(
                 sub_pipeline
             )
-            sub_pipeline.do()
+            pipeline.do()
 
